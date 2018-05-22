@@ -1,6 +1,6 @@
 # Blender v2.79 (sub 0) OBJ File: 'recup objets.blend'
 # www.blender.org
-//mtllib camion.mtl
+# mtllib camion.mtl
 o Cylinder.4777_Cylinder.4882
 v 1.005094 0.761638 1.099187
 v 1.005094 1.884414 1.099187
